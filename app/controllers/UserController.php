@@ -5,6 +5,7 @@
 		public function login()	{
 		//make the view
 			//this is test
+			//this is second test
 			return View::make('users.login');
 			//return View::make('store/showstore');
 		}
